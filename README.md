@@ -34,4 +34,7 @@ Para lanzar la aplicación el local:
 
 
 EDICION DEL YML PARA EJERCICIO 1: 
-
+    1. Genero los tags antes de generar la imagen
+    2. Genero la imagen con el nombre en el formato pedido
+    3. Modifico el push de la imagen que acabo de crear con el nombre en el formato pedido
+    4. Commit de los cambios y ejecuto el job
